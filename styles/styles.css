@@ -634,6 +634,11 @@
     align-self: flex-start;
     align-items: center;
     overflow: hidden;
+    background: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    text-decoration: none;
   }
   .main-btn .btn-text {
     padding: 0 2rem;
